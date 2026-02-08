@@ -92,8 +92,8 @@ The objective of Part B is to demonstrate that **word meaning depends on context
 ### Setup
 
 - A homonym (**“seal”**) is used with two different meanings:
-  - Animal (e.g., swimming in the ocean)
-  - Action (e.g., sealing an envelope)
+  - Animal (swimming in the ocean)
+  - Action (sealing an envelope)
 - Simple 2D word embeddings are assigned for clarity and visualization.
 
 ---
