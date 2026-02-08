@@ -9,7 +9,7 @@ The goal of this assignment is to understand the core learning mechanisms behind
 
 ---
 
-## 📁 Files
+## File
 
 - `m4s2assignment1.py`  
   Main Python file containing both Part A and Part B implementations. (was originally implemented in Colab)
