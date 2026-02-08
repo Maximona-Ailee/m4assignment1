@@ -1,2 +1,1 @@
-# m4assignment1
-SGD Mechanics &amp; Attention Context Assignemnt1
+# SGD Mechanics and Attention Context Assigment1
